@@ -1,0 +1,12 @@
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\bin\Debug\Sneaker Konnect.exe.config
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\bin\Debug\Sneaker Konnect.exe
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\bin\Debug\Sneaker Konnect.pdb
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\obj\Debug\Sneaker Konnect.csproj.AssemblyReference.cache
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\obj\Debug\Sneaker_Konnect.Properties.Resources.resources
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\obj\Debug\Sneaker Konnect.csproj.GenerateResource.cache
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\obj\Debug\Sneaker Konnect.csproj.CoreCompileInputs.cache
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\obj\Debug\Sneaker Konnect.exe
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\obj\Debug\Sneaker Konnect.pdb
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\obj\Debug\Sneaker_Konnect.SneakerKonnect.resources
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\obj\Debug\Sneaker_Konnect.ShoeItem.resources
+C:\Users\squar\source\repos\Sneaker Konnect\Sneaker Konnect\obj\Debug\Sneaker_Konnect.RestockSneaker.resources
